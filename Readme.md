@@ -11,7 +11,7 @@ The animation is powered by a **custom physics system** and **inverse kinematics
 
 Try the project live here:
 
-👉 ****
+👉 **https://weird-monster-ten.vercel.app**
 
 ---
 
