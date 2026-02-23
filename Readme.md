@@ -15,7 +15,7 @@ Try the project live here:
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Interactive Animation**  
   The monster actively tracks and follows the mouse cursor in real time.
@@ -31,7 +31,7 @@ Try the project live here:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 No build tools or external dependencies are required.
 
